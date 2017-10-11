@@ -24,8 +24,6 @@ static unsigned char BufferOut[80];
 static unsigned int my_time=0;
 
 
-
-
 // MIPS40 - Run CPU at maximum speed 40MIPS (25ns), oscillator with PLL at 80Mhz
 // MIPS4 - Run CPU at clock speed 4MIPS (250ns), oscillator without PLL at 8Mhz
 #define MIPS40
